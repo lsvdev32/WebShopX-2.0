@@ -1,0 +1,12 @@
+// src/assets/infinite-slider-svgs/index.js
+export { default as Apple } from './apple.svg'
+export { default as Asus } from './asus-logo.svg'
+export { default as Beats } from './beats-electronics.svg'
+export { default as Hp } from './hp.svg'
+export { default as Jbl } from './jbl-.svg'
+export { default as Lenovo } from './lenovo.svg'
+export { default as Microsoft } from './microsoft.svg'
+export { default as Puma } from './puma-logo.svg'
+export { default as Samsung } from './samsung.svg'
+export { default as Sony } from './sony-logo-1.svg'
+export { default as Xiaomi } from './xiaomi.svg'
